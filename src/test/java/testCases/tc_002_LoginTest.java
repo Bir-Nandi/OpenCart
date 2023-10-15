@@ -10,7 +10,7 @@ import testBase.BaseClass;
 
 public class tc_002_LoginTest extends BaseClass {
 	
-	@Test(groups={"Sanity","Master"})
+	@Test(groups={"Sanity","Master","Regression"})
 	public void test_Login()
 	{
 	try
